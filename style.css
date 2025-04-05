@@ -23,7 +23,7 @@
     from{
         transform: perspective(1000px) rotateX(-16deg) rotateY(0deg);
     }to{
-        transform: perspective(1000px) rotateX(-16deg) rotateY(360deg);
+        transform: perspective(1000px) rotateX(-16deg) rotateY(360deg);//
     }
 }
 
@@ -97,7 +97,7 @@
     .banner .slider .item{
         transform: 
             rotateY(calc( (var(--position) - 1) * (360 / var(--quantity)) * 1deg))
-            translateZ(300px);
+            translateZ(300px); /*not so easy calculate*/
     }
     .banner .content h1{
         text-align: center;
