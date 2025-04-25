@@ -16,4 +16,4 @@ Fotos source is www.Pexels.com
 1. Open the `index.html` file in a web browser.
 2. The webpage will be displayed in the browser with the defined styles.
 
-   Easy-Beasy :)
+   Easy-Beasy ;) 
